@@ -7,5 +7,5 @@ The aim is to investigate whether areas with busier station correspond to higher
 - **Notebooks:** Jupyter notebooks with detailed data analysis and visualization scripts.
 - **Data:** Datasets used in the analysis.
   - `2017_Entry_Exit.csv`: Public transit activity data.
-  - ` 2017_Average_Housing_Prices_in_London.csv`: Housing price data.
+  - `2017_Average_Housing_Prices_in_London.csv`: Housing price data.
   - ` LondonUnderground_Stations_Boroughs.csv ` : London Underground stations along with their corresponding London boroughs.
