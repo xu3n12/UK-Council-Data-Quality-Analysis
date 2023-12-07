@@ -1,5 +1,5 @@
 # The More The Merrier
-This data science project focues on analysing the frequency of Touch-Ins and Touch-Outs at London Undergrounds Stations and their impact on local housing prices.
+**Description:** This data science project focues on analysing the frequency of Touch-Ins and Touch-Outs at London Undergrounds Stations and their impact on local housing prices.
 The aim is to investigate whether areas with busier station correspond to higher housing prices.
 
 ## Project Structure
