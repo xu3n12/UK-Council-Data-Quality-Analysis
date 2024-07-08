@@ -1,5 +1,5 @@
-# Cleaning and Preparing UK Data from Official Sources
-**Description:** This data analyst project focuses on cleaning and preparing real world data from official sources for analysis. The datasets include London Underground Entry and Exit data from data.london.gov.uk and UK housing price data from gov.uk. The goal is to gain practical experience in cleaning and preparing real-world UK data with common issues using Python Pandas.
+# UK Council Data Quality Analysis
+**Description:** This data analyst project focuses on cleaning and preparing UK council data from official sources for analysis. The datasets include London Underground Entry and Exit data from data.london.gov.uk and UK housing price data from gov.uk. The goal is to gain practical experience in cleaning and preparing real-world UK data with common issues using Python Pandas.
 ## Project Structure
 
 - **Notebooks:** Jupyter notebook with detailed data cleaning
